@@ -1,0 +1,9 @@
+[submodule "MainRepository"]
+	path = developers
+	url = https://github.com/Kau2021/MainRepository.git
+[submodule "testing"]
+	path = testing
+	url = https://github.com/Kau2021/MainRepository.git
+[submodule "devops"]
+	path = devops
+	url = https://github.com/Kau2021/MainRepository.git
